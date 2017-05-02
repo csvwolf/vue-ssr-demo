@@ -1,0 +1,34 @@
+{
+  "name": "vue-ssr-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "css-loader": "^0.28.1",
+    "eslint": "^3.19.0",
+    "eslint-loader": "^1.7.1",
+    "file-loader": "^0.11.1",
+    "jsdom": "^10.1.0",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "scss-loader": "0.0.1",
+    "style-loader": "^0.17.0",
+    "url-loader": "^0.5.8",
+    "vue-loader": "^12.0.3",
+    "vue-ssr-webpack-plugin": "^3.0.0",
+    "vue-template-compiler": "^2.3.2",
+    "webpack": "^2.4.1",
+    "window-mock": "0.0.13"
+  },
+  "dependencies": {
+    "vue": "^2.3.2",
+    "vue-server-renderer": "^2.3.2"
+  }
+}
